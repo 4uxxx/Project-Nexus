@@ -30,6 +30,14 @@ Stay updated, report issues, and find teammates on our Discord server.
 
 **[Click here to join the OGFN Discord](https://www.google.com/search?q=https://discord.gg/6H8vcq9j2f)**
 
+## 📜 ライセンス
+
+このプロジェクトは、個人利用および教育目的でのみ無料で使用できます。
+
+✅ このバックエンドは、個人的な目的または教育目的であれば、使用、変更、実行することができます。
+❌ このプロジェクトの商業利用、再販、または再配布は、著者の明示的な許可なしには許可されません。
+本ソフトウェアを使用することにより、上記の利用規約に同意したものとみなされます。
+
 ---
 
 *Developed by the OGFN Team.*
